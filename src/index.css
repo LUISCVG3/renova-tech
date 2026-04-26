@@ -1,0 +1,50 @@
+@import "tailwindcss";
+@import "tailwind-animations";
+
+@font-face {
+  font-family: "Inter";
+  src: url("/assets/inter.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/assets/inter.woff2") format("woff2");
+  font-style: bold;
+  font-weight: 100 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/assets/inter.woff2") format("woff2");
+  font-weight: 100 900; /* rango completo */
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  /*Colors*/
+  --color-primary: #00288e;
+  --color-background: #f7f9fb;
+  --color-surface: #f7f9fb;
+  --color-on-surface: #57657a;
+  --color-text-muted: #757684;
+  --color-bggrandient-login: #dde1ff;
+  --color-border: #c4c5d5;
+  --color-container: #f2f4f6;
+  --color-text-secundary: #191c1e;
+
+  /*Fonts*/
+  --font-Inter: "Inter", sans-serif;
+  --font-Nimbus: "Nimbus Sans", sans-serif;
+}
+
+.form-inputs:focus {
+  outline: none;
+}
+.form-inputs::placeholder {
+  color: var(--color-text-muted/50);
+}

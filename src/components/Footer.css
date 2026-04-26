@@ -1,0 +1,15 @@
+.footer-politics {
+  display: flex;
+  gap: 2rem;
+  a {
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    letter-spacing: 1.1px;
+    color: var(--color-text-muted);
+
+    &:hover {
+      transition: all .3s ease-in-out;
+      color: var(--color-primary);
+    }
+  }
+}

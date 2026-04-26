@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Servicios IA",
+    "description": "Implementación de modelos predictivos y automatización inteligente para optimizar procesos operativos críticos",
+    "icon": "IconBrain"
+  },
+  {
+    "title": "Diseño",
+    "description": "Experiencias de usuario de alta fidelidad centradas en la conversión y la identidad visual de marca.",
+    "icon": "IconPalette"
+  },
+  {
+    "title": "Desarrollo Web",
+    "description": "Plataformas web escalables construidas con las tecnologías más modernas y seguras del mercado.",
+    "icon": "IconCode"
+  },
+  {
+    "title": "Desarrollo Apps",
+    "description": "Aplicaciones móviles nativas e híbridas queofrecen un rendimiento excepcional en cualquier dispositivo.",
+    "icon": "IconDeviceMobile"
+  },
+  {
+    "title": "Base de Datos",
+    "description": "Arquitectura y gestión de datos masivos con alta disponibilidad y redundancia garantizada.",
+    "icon": "IconDatabase"
+  },
+  {
+    "title": "Analisis de Datos",
+    "description": "Business Intelligence y visualización avanzada para la toma de decisiones basada en evidencia.",
+    "icon": "IconChartBar"
+  }
+]
