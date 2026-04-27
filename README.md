@@ -3,8 +3,7 @@
 Este proyecto es una landing page creada como trabajo universitario. Su objetivo es presentar información de forma clara, atractiva y responsiva.
 
 ## 🚀 Demo
-Si tienes GitHub Pages o link en vivo, colócalo aquí:
-https://tu-link-aqui.com
+https://renova-tech.netlify.app/
 
 ## 🧩 Características
 - Diseño responsivo (adaptado a escritorio)
